@@ -1,0 +1,23 @@
+% The delimiter in a row is ',' and in a column ';' 
+% Number of machines
+M = 40
+% Pairwise Aggregation
+pairwise_aggregation = 1
+% Improve Matching
+improve_matching = 1
+% Halve
+halve = 0
+% Number of Trees
+ntree = 16
+% KD
+kd_cut = 1
+% Minimum fraction of points per block
+min_frac_points_block = 0.01
+% min_cut_length
+min_cut_length = 0.001
+% number of samples to resample
+resample_N = 10000
+% Gaussian Smooth
+gaussian_smooth = 1
+% Verbose
+verbose = 0
